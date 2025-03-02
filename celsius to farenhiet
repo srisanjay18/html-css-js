@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <script>
+      function convertToFarenhiet(Celsius){
+        return (Celsius*9/5)+32;
+      }
+      console.log(convertToFarenhiet(25));
+    </script>
+  </body>
+</html>
